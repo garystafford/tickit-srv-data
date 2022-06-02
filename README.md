@@ -1,5 +1,8 @@
-# Data for Tickit PostgreSQL Databae
+# Data for Tickit PostgreSQL Database
 
+Data used for [tickit-srv](https://github.com/garystafford/tickit-srv) Quarkus RESTful microservice application.
+
+```text
 .
 ├── revised_data
 │   ├── tickit_public_buyer.txt
@@ -20,3 +23,4 @@
 │   ├── tickit_public_seller.sql
 │   └── tickit_public_venue.sql
 └── revised_data_inserts.zip
+```
